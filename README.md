@@ -49,4 +49,4 @@ Os CSVs e as imagens já estão incluídos no repositório. Caso precise baixar 
 - [Cats and Dogs](https://www.kaggle.com/datasets/marquis03/cats-and-dogs)
 - [Dry Bean](https://www.kaggle.com/datasets/sansuthi/dry-bean-dataset)
 
-Documentação do trabalho: [Google Docs](https://docs.google.com/document/d/1rNVYjYJMaRFjRdJnOthwwoaCayldoqLoWmOGw2WYzu4/edit?usp=sharing).
+Documentação do trabalho: Trabalho 1 IA Q3.2026.pdf(No diretório raiz).
